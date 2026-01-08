@@ -1,17 +1,17 @@
 |-- .gitattributes
 |-- LICENSE
-|-- trainer
-    |-- assets
-        |-- certificate.JPG
-        |-- mr-karnataka.JPG
-        |-- pose1.jpg
-        |-- pose2.jpg
-        |-- pose3.jpg
-        |-- transformation1.jpg
-        |-- transformation2.JPG
-        |-- transformation3.JPG
-    |-- css
-        |-- style.css
-    |-- index.html
-    |-- js
-        |-- main.js
+|-- assets
+    |-- certificate.JPG
+    |-- mr-karnataka.JPG
+    |-- pose1.jpg
+    |-- pose2.jpg
+    |-- pose3.JPG
+    |-- pose4.jpg
+    |-- transformation1.jpg
+    |-- transformation2.JPG
+    |-- transformation3.JPG
+|-- css
+    |-- style.css
+|-- index.html
+|-- js
+    |-- main.js
