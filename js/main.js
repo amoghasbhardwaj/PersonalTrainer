@@ -20,7 +20,7 @@ let count = 0;
 const target = 10000;
 
 const counter = setInterval(() => {
-  count += 500;
+  count += 100;
   if (count >= target) {
     count = target;
     clearInterval(counter);
