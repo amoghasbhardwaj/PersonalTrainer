@@ -2,7 +2,8 @@
 const images = [
   "assets/pose1.jpg",
   "assets/pose2.jpg",
-  "assets/pose3.jpg"
+  "assets/pose3.jpg",
+  "assets/pose4.jpg"
 ];
 
 let current = 0;
@@ -19,7 +20,7 @@ let count = 0;
 const target = 10000;
 
 const counter = setInterval(() => {
-  count += 10;
+  count += 500;
   if (count >= target) {
     count = target;
     clearInterval(counter);
